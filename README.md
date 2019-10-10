@@ -1,14 +1,14 @@
 <html>
 <head>
   <link rel="stylesheet" href="styles.css">
-  </head>
+ </head>
 <body>
-<h1> SavageNix </h1>
+  <h1> SavageNix </h1>
 
 
-<h2> ¿Quién soy? </h2/>
+  <h2> ¿Quién soy? </h2/>
   
-<img src="https://github.com/Chiiyomi/Nix/blob/master/Pic_235.jpg" width="300" height="300" margin= "500">
+  <img src="https://github.com/Chiiyomi/Nix/blob/master/Pic_235.jpg" width="300" height="300" margin= "500">
 
 <i><b>Never enough<i><b>
 
