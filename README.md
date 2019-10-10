@@ -1,7 +1,7 @@
 
 # SavageNix
 ## ¿Quién soy?
-<img src="https://github.com/Chiiyomi/Nix/blob/master/Pic_235.jpg" width="300" height="300" margin= "30%">
+<img src="https://github.com/Chiiyomi/Nix/blob/master/Pic_235.jpg" width="300" height="300" margin= "500">
 
 *Never enough*
 
